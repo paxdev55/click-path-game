@@ -3,6 +3,9 @@ body {
   color: white;
   font-family: monospace;
 }
-title {
+.title {
   font-size: 24;
-}Mai
+}
+.middle {
+  text-align: center;
+}
